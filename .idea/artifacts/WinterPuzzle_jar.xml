@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="WinterPuzzle:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/WinterPuzzle_jar</output-path>
-    <root id="archive" name="WinterPuzzle.jar">
-      <element id="module-output" name="WinterPuzzle" />
-    </root>
-  </artifact>
-</component>
