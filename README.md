@@ -1,1 +1,1 @@
-Winter Puzzle
+Puzzle
